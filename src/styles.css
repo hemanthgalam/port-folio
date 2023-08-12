@@ -1,1 +1,44 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #202124;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  padding: 40px;
+  margin: 20px 0;
+  background-color: #333;
+  border-radius: 8px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.project,
+.job {
+  margin-bottom: 30px;
+}
+
+.project h3,
+.job h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.project p,
+.job p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.skills-list li {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+a {
+  color: #00bcd4;
+}
